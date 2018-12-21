@@ -5,3 +5,4 @@ element-ui 黑魔法
 
 * [Tree组件无刷新增删改的管理案例](https://github.com/Kuaizi-co/TreeManager)
 * [动态`navMenu`菜单高亮问题](https://github.com/tomieric/element-ui-magic/issues/1)
+* [el-table功能，列宽、单元格自适应解决方案](https://github.com/Kuaizi-co/kz-table)
